@@ -54,7 +54,7 @@ urls（自创）管理应用路由的地方
 
 ## 过程：
 
-![过程](C:\Users\dell\Pictures\django过程.jpg)
+![过程](https://github.com/Ccxcui/DjangoStudy/blob/master/django%E8%BF%87%E7%A8%8B.jpg)
 
 ## 模型层
 
